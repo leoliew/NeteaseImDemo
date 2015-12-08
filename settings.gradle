@@ -1,0 +1,3 @@
+include ':appcompat'
+include ':demo'
+include ':uikit'
